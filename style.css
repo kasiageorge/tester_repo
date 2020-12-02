@@ -1,0 +1,60 @@
+
+h1{
+	text-align: center;
+	font-family: Bradley Hand, cursive;
+}
+h2{
+	font-family:Apple Chancery, cursive;
+	padding-left: 20px
+}
+
+h2{
+	background-color: darkgrey;
+	color: white;
+}
+h5{
+	font-family:Bradley Hand, cursive;
+
+	}
+.box-01{
+	border:1px #333 solid;
+}
+#rainbowborder{
+background-color: white;
+  border: 5px solid transparent;
+  border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+  border-image-slice:10;
+  }
+}
+.box-02{
+	text-transform: uppercase;
+}
+.box-01 ol>li{
+	text-transform: uppercase;
+}
+.box-01 p{
+	text-decoration: underline;
+}
+
+#rainbowbackground{
+	background-image: linear-gradient(to right, red , yellow);
+}
+#phone{
+	text-align: left;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+.contact{
+	background-color:#333;
+	color: white;
+	border: none;
+	}
+.contact:hover{
+	background: #FF3333;}
+.narrowCell{
+	width:"25%";
+
+}
